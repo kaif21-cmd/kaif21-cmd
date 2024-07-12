@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaif Shaikh Siddique</h1>
 <h3 align="center">A passionate Full Stack developer from India <br>
-- 💼 Ex Intern at Coding Blocks
+- 💼 Ex Intern at Coding Blocks<br>
 - 💼 Ex Full Stack Developer at MSAI</h3>
 <div align="center">
     <a title="Markkuz123, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming123najra.gif">
