@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaif Shaikh Siddique</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India <br>
+- 💼 Ex Intern at Coding Blocks
+- 💼 Ex Full Stack Developer at MSAI</h3>
 <div align="center">
     <a title="Markkuz123, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming123najra.gif">
         <img width="512" alt="Programming123najra" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/512px-Programming123najra.gif?20220415084448">
@@ -23,8 +25,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EGLtPEDKlLNVhXWkykFAGGmpDZ93p6jA/view?usp=sharing](https://drive.google.com/file/d/1EGLtPEDKlLNVhXWkykFAGGmpDZ93p6jA/view?usp=sharing)
 
-- 💼 Ex Intern at Coding Blocks
-- 💼 Ex Full Stack Developer at MSAI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
