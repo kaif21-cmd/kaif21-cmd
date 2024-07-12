@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaif Shaikh Siddique</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<a title="Markkuz123, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming123najra.gif"><img width="512" alt="Programming123najra" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/512px-Programming123najra.gif?20220415084448"></a>
 <img align="right" width=400 alt="coding" src="https://commons.wikimedia.org/wiki/File:Programming123najra.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerkaif&label=Profile%20views&color=0e75b6&style=flat" alt="developerkaif" /> </p>
