@@ -1,5 +1,28 @@
 # 💫 About Me:
-<span style="color:cyan">Hello, my name is Kaif Shaikh. I am a software engineer Full Stack Developer from Delhi, India, with a B.Tech in Computer Science and Engineering from Jamia Hamdard University, Delhi. I have worked as an instructor and mentor at Coding Blocks, teaching coding to Delhi government school students, and as a full-stack developer at MSAI Company in New Delhi.</span>
+# 💫 About Me:
+
+<div style="color: cyan; font-family: Arial, sans-serif; font-size: 18px; line-height: 1.6; white-space: pre-line;" id="typing-animation"></div>
+
+<script>
+    const text = "Hello, my name is Kaif Shaikh. I am a software engineer Full Stack Developer from Delhi, India, with a B.Tech in Computer Science and Engineering from Jamia Hamdard University, Delhi. I have worked as an instructor and mentor at Coding Blocks, teaching coding to Delhi government school students, and as a full-stack developer at MSAI Company in New Delhi.";
+
+    let index = 0;
+    const typingAnimation = document.getElementById('typing-animation');
+
+    function typeWriter() {
+        if (index < text.length) {
+            typingAnimation.innerHTML += text.charAt(index);
+            index++;
+            setTimeout(typeWriter, 50); // Adjust typing speed (milliseconds)
+        }
+    }
+
+    // Start typing effect on page load
+    window.onload = function() {
+        typeWriter();
+    };
+</script>
+
 
 
 
