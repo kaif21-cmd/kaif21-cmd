@@ -1,32 +1,6 @@
 # 💫 About Me:
-# 💫 About Me:
-
-<div style="color: cyan; font-family: Arial, sans-serif; font-size: 18px; line-height: 1.6; white-space: pre-line;" id="typing-animation"></div>
-
-<script>
-    const text = "Hello, my name is Kaif Shaikh. I am a software engineer Full Stack Developer from Delhi, India, with a B.Tech in Computer Science and Engineering from Jamia Hamdard University, Delhi. I have worked as an instructor and mentor at Coding Blocks, teaching coding to Delhi government school students, and as a full-stack developer at MSAI Company in New Delhi.";
-
-    let index = 0;
-    const typingAnimation = document.getElementById('typing-animation');
-
-    function typeWriter() {
-        if (index < text.length) {
-            typingAnimation.innerHTML += text.charAt(index);
-            index++;
-            setTimeout(typeWriter, 50); // Adjust typing speed (milliseconds)
-        }
-    }
-
-    // Start typing effect on page load
-    window.onload = function() {
-        typeWriter();
-    };
-</script>
-
-
-
-
-![Kaif Shaikh](<a title="Markkuz123, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming123najra.gif"><img width="512" alt="Programming123najra" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/512px-Programming123najra.gif?20220415084448"></a>) <!-- Replace with your actual image URL -->
+Hello, my name is Kaif Shaikh. I am a software engineer Full Stack Developer from Delhi, India, with a B.Tech in Computer Science and Engineering from Jamia Hamdard University, Delhi. I have worked as an instructor and mentor at Coding Blocks, teaching coding to Delhi government school students, and as a full-stack developer at MSAI Company in New Delhi.
+(<a title="Markkuz123, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming123najra.gif"><img width="512" alt="Programming123najra" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/512px-Programming123najra.gif?20220415084448"></a>) <!-- Replace with your actual image URL -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kaifshaikhsiddiqui/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaif-siddique-532498213/) 
