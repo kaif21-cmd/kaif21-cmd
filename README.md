@@ -1,5 +1,5 @@
 # 💫 About Me
-Hello, my name is Kaif Shaikh. I am a software engineer Full Stack Developer from Delhi, India, with a B.Tech in Computer Science and Engineering from Jamia Hamdard University, Delhi. I have worked as an instructor and mentor at Coding Blocks, teaching coding to Delhi government school students, and as a full-stack developer at MSAI Company in New Delhi,
+Hello, my name is Kaif Shaikh. I am a software engineer Full Stack Developer from Delhi, India, with a B.Tech in Computer Science and Engineering from Jamia Hamdard University, Delhi. I have worked as an instructor and mentor at Coding Blocks, teaching coding to Delhi government school students, and as a full-stack developer at MSAI Company in New Delhi.
 (<a title="Markkuz123, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming123najra.gif"><img width="512" alt="Programming123najra" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/512px-Programming123najra.gif?20220415084448"></a>) <!-- Replace with your actual image URL -->
 
 ## 🌐 Socials:
