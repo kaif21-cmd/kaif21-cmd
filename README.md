@@ -25,6 +25,10 @@ My technical skills include React.js, JavaScript, Node.js, Express.js, MongoDB, 
 ![SPI](https://img.shields.io/badge/SPI-333333?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-333333?style=for-the-badge)
 
+### 🔗 Integration
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaif21-cmd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaif21-cmd&theme=tokyonight&hide_border=true)<br/>
