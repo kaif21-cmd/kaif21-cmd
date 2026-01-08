@@ -18,6 +18,13 @@ My technical skills include React.js, JavaScript, Node.js, Express.js, MongoDB, 
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### 📡 Communication & Protocols
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-333333?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-333333?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-333333?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaif21-cmd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaif21-cmd&theme=tokyonight&hide_border=true)<br/>
