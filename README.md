@@ -29,6 +29,13 @@ My technical skills include React.js, JavaScript, Node.js, Express.js, MongoDB, 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 
+### 🧠 Sensors & Modules
+![DHT11](https://img.shields.io/badge/DHT11-00AEEF?style=for-the-badge)
+![DHT22](https://img.shields.io/badge/DHT22-00AEEF?style=for-the-badge)
+![Relay](https://img.shields.io/badge/Relay_Module-555555?style=for-the-badge)
+![OLED](https://img.shields.io/badge/OLED_Display-000000?style=for-the-badge)
+![GSM](https://img.shields.io/badge/GSM_SIM800-FF6F00?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaif21-cmd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaif21-cmd&theme=tokyonight&hide_border=true)<br/>
