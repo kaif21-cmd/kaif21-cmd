@@ -1,9 +1,26 @@
 # 💫 About Me
 Hello, my name is Kaif Shaikh. I am a Software Developer, graduated in 2024 with a B.Tech in Computer Science and Engineering from Jamia Hamdard University, Delhi.
 
-I have worked as an Instructor and Mentor at Coding Blocks, where I taught coding to Delhi government school students. I also worked as a Full-Stack Developer at MSAI Company and gained industry experience at Airtel. Currently, I am working at ENE.
+## 🌳 Experience & Tech Stack
 
-My technical skills include React.js, JavaScript, Node.js, Express.js, MongoDB, SQL, and full-stack web development. Along with software development, I also have hands-on experience in IoT, working with ESP32 and Arduino using the Arduino IDE. I am actively working on future-focused projects involving web technologies and IoT systemsi
+├── Coding Blocks  
+│   └── Instructor & Mentor (Intern)  
+│       └── Tech Stack: Python, JavaScript  
+│
+├── MSAI Company  
+│   └── Software Developer  
+│       └── Tech Stack: React, JavaScript, Node.js, MongoDB, SQL  
+│
+├── Airtel  
+│   └── Associate Engineer  
+│       └── Tech Stack: JavaScript, SQL  
+│
+└── ENE  
+    └── Software Developer  
+        └── Tech Stack: JavaScript, HTML, CSS, C++
+.
+
+My technical skills include React.js, JavaScript, Node.js, Express.js, MongoDB, SQL, and full-stack web development. Along with software development, I also have hands-on experience in IoT, working with ESP32 and Arduino using the Arduino IDE. I am actively working on future-focused projects involving web technologies and IoT systems
 <a title="Markkuz123, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Programming123najra.gif"><img width="512" alt="Programming123najra" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/512px-Programming123najra.gif?20220415084448"></a> <!-- Replace with your actual image URL -->
 
 ## 🌐 Socials:
