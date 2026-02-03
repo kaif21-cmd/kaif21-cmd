@@ -1,23 +1,41 @@
 # 💫 About Me
 Hello, my name is Kaif Shaikh. I am a Software Developer, graduated in 2024 with a B.Tech in Computer Science and Engineering from Jamia Hamdard University, Delhi.
 
-## 🌳 Experience & Tech Stack
+# 💼 Professional Experience (Timeline)
 
-├── Coding Blocks  
-│   └── Instructor & Mentor (Intern)  
-│       └── Tech Stack: Python, JavaScript  
-│
-├── MSAI Company  
-│   └── Software Developer  
-│       └── Tech Stack: React, JavaScript, Node.js, MongoDB, SQL  
-│
-├── Airtel  
-│   └── Associate Engineer  
-│       └── Tech Stack: JavaScript, SQL  
-│
-└── ENE  
-    └── Software Developer  
-        └── Tech Stack: JavaScript, HTML, CSS, C++
+### 🧑‍🏫 Coding Blocks  
+**Instructor & Mentor (Intern)**  
+📅 Dec 2023 – Mar 2024  
+- Taught coding fundamentals to Delhi Government School students  
+- Built strong foundations in teaching and problem-solving  
+**Tech Stack:** `Python` · `JavaScript`
+
+---
+
+### 💻 MSAI Company  
+**Software Developer**  
+📅 Mar 2024 – Jul 2024  
+- Worked on full-stack application development  
+- Built responsive and scalable features  
+**Tech Stack:** `React` · `JavaScript` · `Node.js` · `MongoDB` · `SQL`
+
+---
+
+### 🏢 Airtel  
+**Associate Engineer**  
+📅 2024 – Oct 2025  
+- Gained hands-on experience in enterprise and industry systems  
+- Worked with corporate workflows and tools  
+**Tech Stack:** `JavaScript` · `SQL`
+
+---
+
+### 🚀 ENE (Current)  
+**Software Developer**  
+📅 Nov 2025 – Present  
+- Developing software solutions and core features  
+**Tech Stack:** `JavaScript` · `HTML` · `CSS` · `C++`
+
 .
 
 My technical skills include React.js, JavaScript, Node.js, Express.js, MongoDB, SQL, and full-stack web development. Along with software development, I also have hands-on experience in IoT, working with ESP32 and Arduino using the Arduino IDE. I am actively working on future-focused projects involving web technologies and IoT systems
