@@ -1,298 +1,243 @@
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ======================= HERO ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=MOHD%20KAIF&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Data%20Science&descAlignY=65&descSize=20" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020a05,50:06150c,100:00ff7f&height=250&section=header&text=MOHD%20KAIF&fontSize=78&fontColor=00ff7f&animation=twinkling&fontAlignY=38&desc=ACCESS%20GRANTED&descAlignY=62&descSize=22&descColor=39ff14" width="100%" alt="banner"/>
 
 <a href="https://kaif.live">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=24C6DC&center=true&vCenter=true&multiline=false&width=820&height=50&lines=%24+whoami+%E2%86%92+Mohd+Kaif+(Kaif+Shaikh);Software+Engineer+%40+ENE+%F0%9F%9A%80;Full-Stack+Developer+%E2%80%94+React+%7C+Node+%7C+Django;M.Tech+Data+Science+%40+Jamia+Millia+Islamia+%F0%9F%8E%93;IoT+Builder+%E2%80%94+ESP32+%2B+Arduino+%F0%9F%94%A7;Freelance+Web+%26+App+Developer+%F0%9F%92%BB;Instructor+%E2%80%94+Django%2C+Python+%26+SQL+%F0%9F%8E%AC" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=00FF7F&background=020A05&center=true&vCenter=true&width=820&height=60&lines=%24+whoami;%3E+Mohd+Kaif+%E2%80%94+Software+Engineer;%3E+M.Tech+Data+Science+%40+Jamia+Millia+Islamia;%3E+Freelance+Web+%2B+App+Builder;%3E+Instructor%3A+Django+%2F+Python+%2F+SQL;%3E+IoT+%E2%80%94+ESP32+%2B+Arduino;%5B+ok+%5D+ACCESS+GRANTED" alt="typing"/>
 </a>
 
 <br/>
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Jamia_Millia_Islamia_Logo.svg/512px-Jamia_Millia_Islamia_Logo.svg.png" height="120" alt="Jamia Millia Islamia"/><br/>
+<td align="center" width="190">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Jamia_Millia_Islamia_Logo.svg/512px-Jamia_Millia_Islamia_Logo.svg.png" height="110" alt="Jamia Millia Islamia"/><br/>
 <sub><b>JAMIA MILLIA ISLAMIA</b></sub><br/>
-<img src="https://imgs.search.brave.com/KuLMAC2lwuVW7VgBXOFMSkLk0Rxm6TKC2xS58RPN6mE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9lbi90aHVtYi9k/L2RmL0phbWlhX01p/bGxpYV9Jc2xhbWlh/X0xvZ28uc3ZnLzEy/ODBweC1KYW1pYV9N/aWxsaWFfSXNsYW1p/YV9Mb2dvLnN2Zy5w/bmc_dXRtX3NvdXJj/ZT1lbi53aWtpcGVk/aWEub3JnJmFtcDt1/dG1fY2FtcGFpZ249/aW5kZXgmYW1wO3V0/bV9jb250ZW50PXRo/dW1ibmFpbA"/>
+<img src="https://img.shields.io/badge/M.Tech-pursuing-00ff7f?style=flat-square&labelColor=020a05"/>
 </td>
-<td align="center" width="440">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="42" alt="wave"/>
-<h1>Mohd Kaif</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=420&height=30&lines=Department+of+Computer+Science+%26+Engineering;M.Tech+%E2%80%94+Data+Science;Software+Engineer+%40+ENE" alt="dept"/>
-<br/>
-<img src="https://img.shields.io/badge/Dept-Computer_Science_%26_Engineering-302b63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Specialization-Data_Science-24C6DC?style=for-the-badge"/>
+<td align="center" width="210">
+<img src="https://kaif.live/Kaif_Photo.jpeg" width="170" alt="Mohd Kaif"/><br/>
+<sub><code>kaif@dev:~$</code></sub>
 </td>
-<td align="center" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Jamia_Hamdard_Logo.svg" height="120" alt="Jamia Hamdard"/><br/>
+<td align="center" width="190">
+<img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Jamia_Hamdard_Logo.svg" height="110" alt="Jamia Hamdard"/><br/>
 <sub><b>JAMIA HAMDARD</b></sub><br/>
-<img src="https://img.shields.io/badge/B.Tech-Alumnus_2024-0077B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/B.Tech-2024-00ff7f?style=flat-square&labelColor=020a05"/>
 </td>
 </tr>
 </table>
 
+<img src="https://img.shields.io/badge/●_software__engineer-current-00ff7f?style=for-the-badge&labelColor=020a05"/>
+<img src="https://img.shields.io/badge/●_mtech__data__science-current-00ff7f?style=for-the-badge&labelColor=020a05"/>
 <br/>
-
-<img src="https://img.shields.io/badge/Status-Available_for_work-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white" alt="status"/>
-<img src="https://img.shields.io/badge/Location-New_Delhi,_India-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
-<img src="https://komarev.com/ghpvc/?username=kaif21-cmd&label=Profile+Views&color=24c6dc&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/badge/freelance-web_+_app_builder-39ff14?style=for-the-badge&labelColor=020a05"/>
+<img src="https://img.shields.io/badge/instructor-django_/_python_/_sql-39ff14?style=for-the-badge&labelColor=020a05"/>
 
 <br/><br/>
 
-<a href="https://kaif.live"><img src="https://img.shields.io/badge/Portfolio-kaif.live-24C6DC?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kaif-siddique-532498213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/kaifshaikhsiddiqui/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/kaif21-cmd"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://buymeacoffee.com/kaifshaikh"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://kaif.live"><img src="https://img.shields.io/badge/./portfolio-kaif.live-00ff7f?style=for-the-badge&logo=gnubash&logoColor=00ff7f&labelColor=020a05"/></a>
+<a href="https://kaif.live/chat.php"><img src="https://img.shields.io/badge/./chat-live-00ff7f?style=for-the-badge&logo=wechat&logoColor=00ff7f&labelColor=020a05"/></a>
+<a href="https://www.linkedin.com/in/kaif-siddique-532498213/"><img src="https://img.shields.io/badge/./linkedin-connect-00ff7f?style=for-the-badge&logo=linkedin&logoColor=00ff7f&labelColor=020a05"/></a>
+<a href="https://www.instagram.com/kaifshaikhsiddiqui/"><img src="https://img.shields.io/badge/./instagram-follow-00ff7f?style=for-the-badge&logo=instagram&logoColor=00ff7f&labelColor=020a05"/></a>
+<a href="https://github.com/kaif21-cmd"><img src="https://img.shields.io/badge/./github-kaif21--cmd-00ff7f?style=for-the-badge&logo=github&logoColor=00ff7f&labelColor=020a05"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kaif21-cmd&label=PROFILE+VIEWS&color=00ff7f&labelColor=020a05&style=for-the-badge" alt="views"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
 
-<!-- ===================== ABOUT ===================== -->
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="32" alt="⚡"/> About Me</h2>
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
+<!-- ======================= TERMINAL ======================= -->
 ```bash
-kaif@dev:~$ cat about.txt
+kaif@dev ~ $ whoami
+[ ok ] loading profile...
+[ ok ] mounting skills.json
+[ ok ] access granted
+
+kaif@dev ~ $ cat status.txt
+role     : software_engineer  [current]
+study    : mtech_data_science [current]  # Jamia Millia Islamia, Dept. of Computer Science & Engineering
+work     : freelance web + app builder
+teach    : django / python / sql
+status   : ● available for work
+reply    : usually within 24h
 ```
 
-Hello! I'm **Mohd Kaif**, a **Software Engineer** who loves building practical products.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
 
-- 🎓 **B.Tech CSE** — Jamia Hamdard *(2024)*
-- 🎯 **M.Tech Data Science** — Jamia Millia Islamia *(2026 – 2028)*
-- 🚀 Software Engineer at **ENE**
-- 💼 Freelance **web & app builder**
-- 🎬 Instructor — **Django, Python, SQL**
-- 🔧 IoT with **ESP32 & Arduino**
-- 🌱 Working on projects combining **Web + IoT**
+## `$ cat about.txt`
 
-</td>
-<td width="45%" align="center" valign="middle">
+> **Professional summary**
+>
+> I'm **Mohd Kaif**, a software engineer who likes building practical products. I completed my **B.Tech at Jamia Hamdard** and I'm now pursuing an **M.Tech at Jamia Millia Islamia**. I also make educational content on programming, Django, Python, SQL and software development.
+>
+> On the hardware side I work with **IoT — ESP32 & Arduino** — and I'm building future-focused projects that combine **web technologies + IoT**.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/512px-Programming123najra.gif" width="100%" alt="coding animation"/>
-<br/>
-<sub>Programming123najra by Markkuz123, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Programming123najra.gif">Wikimedia Commons</a></sub>
+```text
+┌────────────────────┬────────────────────┬────────────────────┐
+│  4  years of B.Tech │  20+ tools & techs │  2  playlists      │
+└────────────────────┴────────────────────┴────────────────────┘
+```
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=while(alive)+%7B+learn()%3B+build()%3B+ship()%3B+%7D;console.log('Hello%2C+World!')%3B;git+commit+-m+%22Another+day%2C+another+feature%22" alt="code typing"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ===================== EDUCATION ===================== -->
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="36" alt="🎓"/> Education</h2>
+## `$ ls ./education`
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Jamia_Millia_Islamia_Logo.svg/512px-Jamia_Millia_Islamia_Logo.svg.png" height="100" alt="JMI"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Jamia_Millia_Islamia_Logo.svg/512px-Jamia_Millia_Islamia_Logo.svg.png" height="95" alt="JMI"/>
 <h3>Jamia Millia Islamia</h3>
 <b>Department of Computer Science & Engineering</b><br/>
 <b>M.Tech — Data Science</b><br/>
-📅 2026 – 2028 · New Delhi<br/><br/>
-<img src="https://img.shields.io/badge/●_Pursuing-2ea44f?style=flat-square"/>
+2026 – 2028 · New Delhi<br/><br/>
+<img src="https://img.shields.io/badge/●_current-pursuing-00ff7f?style=flat-square&labelColor=020a05"/>
 </td>
 <td align="center" width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Jamia_Hamdard_Logo.svg" height="90" alt="Jamia Hamdard"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Jamia_Hamdard_Logo.svg" height="95" alt="Jamia Hamdard"/>
 <h3>Jamia Hamdard</h3>
 <b>B.Tech — Computer Science & Engineering</b><br/>
-📅 2020 – 2024 · New Delhi<br/><br/>
-<img src="https://img.shields.io/badge/✔_Completed-0077B5?style=flat-square"/>
+2020 – 2024 · New Delhi<br/><br/>
+<img src="https://img.shields.io/badge/✔_completed-100%25-39ff14?style=flat-square&labelColor=020a05"/>
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
 
-<!-- ===================== EXPERIENCE ===================== -->
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="36" alt="💼"/> Professional Journey</h2>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=24C6DC&center=true&vCenter=true&width=800&lines=Coding+Blocks+%E2%86%92+MSAI+%E2%86%92+Airtel+%E2%86%92+ENE+%E2%86%92+M.Tech+%F0%9F%9A%80" alt="journey"/>
-</div>
-
-<br/>
+## `$ ./whatido.sh`
 
 <table align="center">
 <tr>
-<td width="140" align="center"><b>Nov 2025<br/>– Present</b><br/><img src="https://img.shields.io/badge/CURRENT-2ea44f?style=flat-square"/></td>
-<td>
-<h3>🚀 ENE — Software Engineer</h3>
-Building software solutions, core features and full-stack engineering projects on production systems.<br/><br/>
-<img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs,react&theme=dark" alt="ene stack"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>2024 –<br/>Oct 2025</b></td>
-<td>
-<h3>🏢 Airtel — Associate Engineer</h3>
-Worked on production engineering, network security and software systems with enterprise workflows and tools.<br/><br/>
-<img src="https://skillicons.dev/icons?i=js,mysql&theme=dark" alt="airtel stack"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Mar 2024 –<br/>Jul 2024</b></td>
-<td>
-<h3>💻 MSAI — Software Developer</h3>
-Built responsive, scalable React-based interfaces and full-stack features.<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,mysql&theme=dark" alt="msai stack"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Dec 2023 –<br/>Mar 2024</b></td>
-<td>
-<h3>🧑‍🏫 Coding Blocks — Instructor & Mentor (Intern)</h3>
-Taught coding fundamentals to Delhi Government School students.<br/><br/>
-<img src="https://skillicons.dev/icons?i=py,js&theme=dark" alt="cb stack"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Ongoing</b></td>
-<td>
-<h3>🌐 Freelance — Web & App Builder · 🎬 Instructor</h3>
-Fast, clean websites and apps for clients, from idea to deploy. Day-wise video courses on Django, Python and SQL.<br/><br/>
-<img src="https://skillicons.dev/icons?i=django,py,react,nodejs,flask&theme=dark" alt="freelance stack"/>
-</td>
+<td width="25%" valign="top"><code>$ ./work --current</code><h4>Software Engineer</h4><sub>Full-stack engineering, cloud and production systems.</sub></td>
+<td width="25%" valign="top"><code>$ ./build --web</code><h4>Freelance Web Builder</h4><sub>Fast, clean websites and web apps from idea to deploy.</sub></td>
+<td width="25%" valign="top"><code>$ ./build --app</code><h4>Freelance App Builder</h4><sub>Mobile and cross-platform apps built around your users.</sub></td>
+<td width="25%" valign="top"><code>$ ./teach --daywise</code><h4>Instructor</h4><sub>Day-wise video courses on Django, Python and SQL.</sub></td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
 
-<!-- ===================== TECH STACK ===================== -->
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="36" alt="🔥"/> Tech Stack</h2>
+## `$ git log --oneline`
 
-<div align="center">
+```diff
++ #current  (HEAD -> main)  M.Tech — Jamia Millia Islamia          2026 – 2028 · Data Science
++ #latest   Software Engineer — ENE                                Nov 2025 – Present
++ airtel    Associate Engineer — Airtel                            2024 – Oct 2025
++ msai      Software Developer — MSAI                              Mar 2024 – Jul 2024
++ cb        Instructor & Mentor (Intern) — Coding Blocks           Dec 2023 – Mar 2024
++ edu       B.Tech — Jamia Hamdard                                 2020 – 2024 · CSE
+```
 
-**🧠 Languages**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css&theme=dark"/><br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<details open>
+<summary><b><code>$ git show #latest</code></b> — what I did at each place</summary>
+<br/>
 
-**🎨 Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,tailwind&theme=dark"/><br/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Semantic_UI_React-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white"/>
+- **ENE** — software development and full-stack engineering projects · `JavaScript` `HTML` `CSS` `C++`
+- **Airtel** — production engineering, network security and software systems · `JavaScript` `SQL`
+- **MSAI** — frontend development and React-based interfaces · `React` `JavaScript` `Node.js` `MongoDB` `SQL`
+- **Coding Blocks** — taught coding fundamentals to Delhi Government School students · `Python` `JavaScript`
 
-**⚙️ Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,php&theme=dark"/><br/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+</details>
 
-**🗄️ Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
 
-**☁️ Cloud, Deploy & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,github,vscode,postman,npm&theme=dark"/><br/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/PythonAnywhere-2F9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>
-<img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
+## `$ cat skills.json`
 
-**📊 Data Science & ML**<br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,opencv&theme=dark"/><br/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-
-**🎨 Design**<br/>
-<img src="https://skillicons.dev/icons?i=xd&theme=dark"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-
-**🔧 IoT & Embedded**<br/>
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/><br/>
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-**📡 Protocols**<br/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/I2C-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SPI-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UART-333333?style=for-the-badge"/>
-
-**🧩 Sensors & Modules**<br/>
-<img src="https://img.shields.io/badge/DHT11-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DHT22-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Relay_Module-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OLED_Display-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GSM_SIM800-FF6F00?style=for-the-badge"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ===================== WHAT I DO ===================== -->
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="36" alt="🚀"/> What I Do</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="25%"><h3>🧑‍💻</h3><b>Software Engineer</b><br/><sub>Full-stack engineering, cloud & production systems</sub></td>
-<td align="center" width="25%"><h3>🌐</h3><b>Web Builder</b><br/><sub>Fast, clean websites & web apps from idea to deploy</sub></td>
-<td align="center" width="25%"><h3>📱</h3><b>App Builder</b><br/><sub>Mobile & cross-platform apps</sub></td>
-<td align="center" width="25%"><h3>🎬</h3><b>Instructor</b><br/><sub>Django, Python & SQL video courses</sub></td>
-</tr>
-<tr>
-<td align="center"><h3>🔧</h3><b>IoT Developer</b><br/><sub>ESP32, Arduino, MQTT, sensors</sub></td>
-<td align="center"><h3>📊</h3><b>Data Science</b><br/><sub>Python, pandas, ML — M.Tech in progress</sub></td>
-<td align="center"><h3>🔗</h3><b>API & Integration</b><br/><sub>REST, WebSockets, JWT</sub></td>
-<td align="center"><h3>🌱</h3><b>Currently</b><br/><sub>Web + IoT future-focused projects</sub></td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="36" alt="💡"/> GitHub Analytics</h2>
+```json
+{
+  "languages": ["C", "C++", "Python", "JavaScript", "SQL"],
+  "frontend":  ["HTML", "CSS", "React", "Next.js", "Bootstrap", "MUI"],
+  "backend":   ["Django", "Node.js", "Express", "Flask", "PHP", "JWT", "Socket.io"],
+  "database":  ["MongoDB", "MySQL"],
+  "tools":     ["Git", "GitHub", "VS Code", "Postman", "AWS", "Vercel", "Netlify", "Render"],
+  "data_ml":   ["NumPy", "Pandas", "Matplotlib", "scikit-learn", "TensorFlow", "PyTorch", "OpenCV"],
+  "iot":       ["ESP32", "Arduino", "Embedded C", "MQTT", "I2C", "SPI", "UART"]
+}
+```
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=kaif21-cmd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="stats"/>
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif21-cmd&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" alt="top langs"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nextjs,bootstrap,mui,nodejs,express,django,flask,php&theme=dark" alt="skills 1"/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,vercel,netlify,git,github,vscode,postman,npm&theme=dark" alt="skills 2"/><br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,opencv,arduino,xd&theme=dark" alt="skills 3"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaif21-cmd&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
+<img src="https://img.shields.io/badge/ESP32-020a05?style=flat-square&logo=espressif&logoColor=00ff7f"/>
+<img src="https://img.shields.io/badge/Arduino_IDE-020a05?style=flat-square&logo=arduino&logoColor=00ff7f"/>
+<img src="https://img.shields.io/badge/MQTT-020a05?style=flat-square&logo=eclipse-mosquitto&logoColor=00ff7f"/>
+<img src="https://img.shields.io/badge/REST_API-020a05?style=flat-square&logoColor=00ff7f"/>
+<img src="https://img.shields.io/badge/WebSockets-020a05?style=flat-square&logoColor=00ff7f"/>
+<img src="https://img.shields.io/badge/DHT11_/_DHT22-020a05?style=flat-square&logoColor=00ff7f"/>
+<img src="https://img.shields.io/badge/Relay_/_OLED_/_GSM_SIM800-020a05?style=flat-square&logoColor=00ff7f"/>
+<img src="https://img.shields.io/badge/PythonAnywhere-020a05?style=flat-square&logo=pythonanywhere&logoColor=00ff7f"/>
+<img src="https://img.shields.io/badge/Canva-020a05?style=flat-square&logo=canva&logoColor=00ff7f"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
+
+## `$ ls ./posts ./playlists`
+
+```bash
+./posts
+├── Getting_Started_with_Django.md     # Basic concepts and project setup for beginners
+└── Python_for_Data_Science.md         # Important Python concepts used in data science
+
+./playlists
+├── SQL/       # day-wise videos — Day 1, Day 2, Day 3 (coming soon)
+└── Django/    # day-wise videos — Day 1: install, venv, project structure · Day 2: apps, URLs, views, templates
+```
+
+<div align="center">
+<a href="https://kaif.live/#playlists"><img src="https://img.shields.io/badge/▶_watch_playlists-kaif.live-00ff7f?style=for-the-badge&labelColor=020a05"/></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
+
+## `$ ./stats.sh`
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=kaif21-cmd&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=020a05&title_color=00ff7f&text_color=d5f5e3&icon_color=00ff7f&border_color=00ff7f&border_radius=8" alt="stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif21-cmd&layout=compact&bg_color=020a05&title_color=00ff7f&text_color=d5f5e3&border_color=00ff7f&border_radius=8" alt="top langs"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kaif21-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaif21-cmd&background=020A05&ring=00FF7F&fire=39FF14&currStreakLabel=00FF7F&sideLabels=00FF7F&currStreakNum=D5F5E3&sideNums=D5F5E3&dates=6F9B83&border=00FF7F&stroke=00FF7F33&border_radius=8" alt="streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaif21-cmd&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaif21-cmd&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaif21-cmd&bg_color=020a05&color=00ff7f&line=00ff7f&point=39ff14&area=true&area_color=00ff7f&hide_border=true&title_color=00ff7f" width="100%" alt="activity"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020a05,50:00ff7f,100:020a05&height=2&section=header" width="100%"/>
 
-<!-- ===================== QUOTE ===================== -->
+## `$ ./contact.sh`
+
+```bash
+status : ● available for work
+reply  : usually within 24h
+topics : web, app, django, sql, iot
+```
+
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
-</div>
 
-<!-- ===================== CONTACT ===================== -->
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="36" alt="🤝"/> Let's Build Something Together</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=700&lines=Open+to+interesting+engineering+work;Collaborations+%26+tech+discussions;Topics%3A+web+%7C+app+%7C+django+%7C+sql+%7C+iot;Usually+replies+within+24h+%E2%9A%A1" alt="contact typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=39FF14&background=020A05&center=true&vCenter=true&width=700&lines=Open+to+interesting+engineering+work;Collaborations+%26+discussions+about+technology;%24+.%2Fsend_message.sh+%E2%86%92+kaif.live%23contact" alt="contact typing"/>
 
 <br/><br/>
 
-<a href="https://kaif.live"><img src="https://img.shields.io/badge/Visit_My_Portfolio-kaif.live-24C6DC?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kaif-siddique-532498213/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://buymeacoffee.com/kaifshaikh"><img src="https://img.shields.io/badge/Support_My_Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://kaif.live/#contact"><img src="https://img.shields.io/badge/$_./send_message.sh-kaif.live-00ff7f?style=for-the-badge&labelColor=020a05"/></a>
+<a href="https://buymeacoffee.com/kaifshaikh"><img src="https://img.shields.io/badge/buy_me_a_coffee-support-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=020a05"/></a>
 
 <br/><br/>
 
@@ -300,6 +245,8 @@ Fast, clean websites and apps for clients, from idea to deploy. Day-wise video c
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=150&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,50:06150c,100:020a05&height=140&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+
+<div align="center"><sub><code>exit 0 // built with HTML, CSS, JS & PHP — kaif.live</code></sub></div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
