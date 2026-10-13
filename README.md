@@ -9,6 +9,31 @@
 
 <br/>
 
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Jamia_Millia_Islamia_Logo.svg/512px-Jamia_Millia_Islamia_Logo.svg.png" height="120" alt="Jamia Millia Islamia"/><br/>
+<sub><b>JAMIA MILLIA ISLAMIA</b></sub><br/>
+<img src="https://img.shields.io/badge/M.Tech-Pursuing-2ea44f?style=flat-square"/>
+</td>
+<td align="center" width="440">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="42" alt="wave"/>
+<h1>Mohd Kaif</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=420&height=30&lines=Department+of+Computer+Science+%26+Engineering;M.Tech+%E2%80%94+Data+Science;Software+Engineer+%40+ENE" alt="dept"/>
+<br/>
+<img src="https://img.shields.io/badge/Dept-Computer_Science_%26_Engineering-302b63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Specialization-Data_Science-24C6DC?style=for-the-badge"/>
+</td>
+<td align="center" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Jamia_Hamdard_Logo.svg" height="120" alt="Jamia Hamdard"/><br/>
+<sub><b>JAMIA HAMDARD</b></sub><br/>
+<img src="https://img.shields.io/badge/B.Tech-Alumnus_2024-0077B5?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Status-Available_for_work-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white" alt="status"/>
 <img src="https://img.shields.io/badge/Location-New_Delhi,_India-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 <img src="https://komarev.com/ghpvc/?username=kaif21-cmd&label=Profile+Views&color=24c6dc&style=for-the-badge" alt="views"/>
@@ -23,10 +48,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ===================== ABOUT ===================== -->
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="32" alt="⚡"/> About Me</h2>
 
 <table align="center">
 <tr>
@@ -61,16 +86,17 @@ Hello! I'm **Mohd Kaif**, a **Software Engineer** who loves building practical p
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=while(alive)+%7B+learn()%3B+build()%3B+ship()%3B+%7D;console.log('Hello%2C+World!')%3B;git+commit+-m+%22Another+day%2C+another+feature%22" alt="code typing"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ===================== EDUCATION ===================== -->
-<h2 align="center">🎓 Education</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="36" alt="🎓"/> Education</h2>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/en/d/df/Jamia_Millia_Islamia_Logo.svg" height="90" alt="JMI"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Jamia_Millia_Islamia_Logo.svg/512px-Jamia_Millia_Islamia_Logo.svg.png" height="100" alt="JMI"/>
 <h3>Jamia Millia Islamia</h3>
+<b>Department of Computer Science & Engineering</b><br/>
 <b>M.Tech — Data Science</b><br/>
 📅 2026 – 2028 · New Delhi<br/><br/>
 <img src="https://img.shields.io/badge/●_Pursuing-2ea44f?style=flat-square"/>
@@ -85,10 +111,10 @@ Hello! I'm **Mohd Kaif**, a **Software Engineer** who loves building practical p
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ===================== EXPERIENCE ===================== -->
-<h2 align="center">💼 Professional Journey</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="36" alt="💼"/> Professional Journey</h2>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=24C6DC&center=true&vCenter=true&width=800&lines=Coding+Blocks+%E2%86%92+MSAI+%E2%86%92+Airtel+%E2%86%92+ENE+%E2%86%92+M.Tech+%F0%9F%9A%80" alt="journey"/>
@@ -139,10 +165,10 @@ Fast, clean websites and apps for clients, from idea to deploy. Day-wise video c
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ===================== TECH STACK ===================== -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="36" alt="🔥"/> Tech Stack</h2>
 
 <div align="center">
 
@@ -204,10 +230,10 @@ Fast, clean websites and apps for clients, from idea to deploy. Day-wise video c
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ===================== WHAT I DO ===================== -->
-<h2 align="center">🚀 What I Do</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="36" alt="🚀"/> What I Do</h2>
 
 <table align="center">
 <tr>
@@ -224,10 +250,10 @@ Fast, clean websites and apps for clients, from idea to deploy. Day-wise video c
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ===================== GITHUB STATS ===================== -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="36" alt="💡"/> GitHub Analytics</h2>
 
 <div align="center">
 
@@ -248,7 +274,7 @@ Fast, clean websites and apps for clients, from idea to deploy. Day-wise video c
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ===================== QUOTE ===================== -->
 <div align="center">
@@ -256,7 +282,7 @@ Fast, clean websites and apps for clients, from idea to deploy. Day-wise video c
 </div>
 
 <!-- ===================== CONTACT ===================== -->
-<h2 align="center">🤝 Let's Build Something Together</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="36" alt="🤝"/> Let's Build Something Together</h2>
 
 <div align="center">
 
