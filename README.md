@@ -1,32 +1,31 @@
-<!-- 
-  ✏️ BEFORE YOU PUSH: search & replace every  YOUR_USERNAME  with your GitHub username.
-  This file belongs in a repo named exactly like your username (YOUR_USERNAME/YOUR_USERNAME).
+<!--
+  ✏️ BEFORE YOU PUSH: replace every  YOUR_USERNAME  with your GitHub username,
+  and fill in the LinkedIn / portfolio / email links.
+  This file goes in a PUBLIC repo named exactly like your username (YOUR_USERNAME/YOUR_USERNAME).
 -->
 
 <div align="center">
 
-<!-- ═══════════ ANIMATED WAVING HEADER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<!-- ═══════════ ANIMATED MATRIX-GREEN HEADER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020a05,50:064e2b,100:00ff7f&height=240&section=header&text=Mohd%20Kaif&fontSize=64&fontColor=00ff7f&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20M.Tech%20Data%20Science%20%E2%80%A2%20Instructor&descAlignY=58&descSize=18&descColor=d5f5e3" width="100%" alt="Mohd Kaif header"/>
 
-<!-- ═══════════ TYPING ANIMATION ═══════════ -->
+<!-- ═══════════ TERMINAL TYPING ANIMATION ═══════════ -->
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile;%F0%9F%9A%80+I+turn+coffee+into+code;%F0%9F%92%A1+Building+things+that+matter;%F0%9F%8C%B1+Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF7F&center=true&vCenter=true&width=760&height=60&lines=kaif%40dev%3A~%24+whoami;Software+Engineer+%F0%9F%92%BB;M.Tech+in+Data+Science+%40+Jamia+Millia+Islamia;Freelance+Web+%26+App+Builder+%F0%9F%9A%80;Teaching+Django%2C+Python+%26+SQL+%F0%9F%8E%A5;%5B+ok+%5D+access+granted" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ═══════════ BADGES ═══════════ -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="views"/>
-<a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=6366f1&labelColor=1e1b4b" alt="followers"/></a>
-<a href="https://github.com/YOUR_USERNAME?tab=stars"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=ec4899&labelColor=1e1b4b" alt="stars"/></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff7f&labelColor=020a05&style=for-the-badge" alt="views"/>
+<a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00ff7f&labelColor=020a05" alt="followers"/></a>
+<a href="https://github.com/YOUR_USERNAME?tab=stars"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=00ff7f&labelColor=020a05" alt="stars"/></a>
 
 <br/><br/>
 
-<!-- ═══════════ SOCIAL LINKS ═══════════ -->
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00FF7F?style=for-the-badge&logo=googlechrome&logoColor=020a05" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 </div>
 
@@ -34,121 +33,144 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🖥️ `cat about.txt`
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif-programmer.gif" alt="coding gif" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif-programmer.gif" alt="coding gif" />
 
-```js
-const me = {
-  name:     "YOUR_NAME",
-  role:     "Full-Stack Developer",
-  location: "New Delhi, India 🇮🇳",
-  currently: "Building something awesome 🔨",
-  learning:  ["Rust", "System Design", "AI/ML"],
-  askMeAbout: ["JavaScript", "Python", "Open Source"],
-  funFact:   "I debug with console.log and zero shame 🐛",
-};
+```python
+class MohdKaif:
+    role      = "Software Engineer"
+    studying  = "M.Tech in Data Science @ Jamia Millia Islamia (2026-2028)"
+    graduated = "B.Tech CSE @ Jamia Hamdard (2020-2024)"
+    freelance = ["Web Apps", "Mobile Apps"]
+    teaches   = ["Django", "Python", "SQL"]
+    location  = "New Delhi, India 🇮🇳"
+
+    def mission(self):
+        return "Build practical software. Teach what I learn."
 ```
 
-- 🔭 **Working on:** `PROJECT_NAME` — a short one-liner about it
-- 🌱 **Learning:** the next thing on your list
-- 🤝 **Looking to collaborate on:** open-source & cool side projects
-- 💬 **Ping me about:** anything tech, startups, or memes
-- ⚡ **Fun fact:** add your own here
+I build practical products across frontend, backend, full-stack and cloud, and I make **day-wise video courses** on programming for people who are just starting out.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 📜 `git log --oneline`
+
+| | Role | Where | Notes |
+|---|---|---|---|
+| 🟢 `#current` | **M.Tech, Data Science** | Jamia Millia Islamia | 2026 – 2028 |
+| 🟢 `#latest` | **Software Engineer** | Current | Full-stack engineering & cloud |
+| ⚪ `airtel` | **Associate Engineer** | Airtel | Production engineering, network security, software systems |
+| ⚪ `msai` | **Frontend Developer (Intern)** | MSAI | React-based interfaces |
+| ⚪ `edu` | **B.Tech, CSE** | Jamia Hamdard | 2020 – 2024 |
+
+---
+
+## 🛠️ `cat skills.json`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,html,css,tailwind&perline=10" alt="frontend and languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=600&color=6F9B83&center=true&vCenter=true&width=500&height=30&lines=%22languages%22+%7C+%22frontend%22+%7C+%22backend%22+%7C+%22database%22+%7C+%22tools%22" alt="skills typing"/>
+
+**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,mongodb,redis,aws,vercel,figma&perline=10" alt="tools and infra"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql&perline=10" alt="languages"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&perline=10" alt="frontend"/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,flask&perline=10" alt="backend"/>
+
+**Database & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,aws&perline=10" alt="db and tools"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎥 `ls ./playlists`
+
+Day-wise video courses I'm publishing:
+
+| Playlist | Status | What's covered |
+|---|---|---|
+| 🐍 **Django** | 🟢 In progress | Setup, virtual env, project structure, apps, URLs, views, templates |
+| 🗄️ **SQL** | 🟢 In progress | Databases, SELECT, WHERE, ORDER BY, filtering data |
+
+> 👉 Watch them on my portfolio: **[YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)**
+
+---
+
+## 📊 `./stats.sh`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&border_radius=10&bg_color=020a05&title_color=00ff7f&text_color=d5f5e3&icon_color=00ff7f&border_color=00ff7f" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&border_radius=10&bg_color=020a05&title_color=00ff7f&text_color=d5f5e3&border_color=00ff7f" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=020A05&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=D5F5E3&currStreakNum=D5F5E3&sideNums=D5F5E3&dates=6F9B83&border=00FF7F&borderRadius=10" alt="streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 `./activity.sh`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a855f7&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true&radius=12" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020a05&color=00ff7f&line=00ff7f&point=ffffff&area=true&area_color=00ff7f&hide_border=true&radius=10" alt="activity graph" width="100%"/>
 
 </div>
 
 ---
 
-## 💬 Quote of the Day
+## 🏆 `./trophies.sh`
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 📌 `ls ./pinned`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&border_radius=12" alt="project one"/>
+<a href="https://github.com/YOUR_USERNAME/REPO_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&bg_color=020a05&title_color=00ff7f&text_color=d5f5e3&icon_color=00ff7f&border_color=00ff7f&border_radius=10" alt="repo one"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&border_radius=12" alt="project two"/>
-</a>
-<br/>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&border_radius=12" alt="project three"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&border_radius=12" alt="project four"/>
+<a href="https://github.com/YOUR_USERNAME/REPO_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&bg_color=020a05&title_color=00ff7f&text_color=d5f5e3&icon_color=00ff7f&border_color=00ff7f&border_radius=10" alt="repo two"/>
 </a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 `./contact.sh`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Open+to+collaborations+%F0%9F%A4%9D;Got+an+idea%3F+Let's+build+it+%F0%9F%9A%80;Say+hi%2C+I+don't+bite+%F0%9F%98%84" alt="connect typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=640&lines=status%3A+%E2%97%8F+available+for+work;Need+a+website+or+an+app%3F+Let's+build+it+%F0%9F%9A%80;Want+to+learn+Django+or+SQL%3F+Check+my+playlists+%F0%9F%8E%A5" alt="contact typing"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<a href="https://YOUR_PORTFOLIO_URL#contact"><img src="https://img.shields.io/badge/$%20./send_message.sh-00FF7F?style=for-the-badge&labelColor=020a05&color=00ff7f&logoColor=020a05" alt="contact"/></a>
 
-<sub>⭐ If you like this profile, drop a star — it keeps the snake fed.</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,50:064e2b,100:020a05&height=120&section=footer" width="100%" alt="footer"/>
+
+<sub><code>exit 0</code> // ⭐ star if you liked this profile</sub>
 
 </div>
