@@ -14,7 +14,7 @@
 <td align="center" width="200">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Jamia_Millia_Islamia_Logo.svg/512px-Jamia_Millia_Islamia_Logo.svg.png" height="120" alt="Jamia Millia Islamia"/><br/>
 <sub><b>JAMIA MILLIA ISLAMIA</b></sub><br/>
-<img src="https://img.shields.io/badge/M.Tech-Pursuing-2ea44f?style=flat-square"/>
+<img src="https://imgs.search.brave.com/KuLMAC2lwuVW7VgBXOFMSkLk0Rxm6TKC2xS58RPN6mE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9lbi90aHVtYi9k/L2RmL0phbWlhX01p/bGxpYV9Jc2xhbWlh/X0xvZ28uc3ZnLzEy/ODBweC1KYW1pYV9N/aWxsaWFfSXNsYW1p/YV9Mb2dvLnN2Zy5w/bmc_dXRtX3NvdXJj/ZT1lbi53aWtpcGVk/aWEub3JnJmFtcDt1/dG1fY2FtcGFpZ249/aW5kZXgmYW1wO3V0/bV9jb250ZW50PXRo/dW1ibmFpbA"/>
 </td>
 <td align="center" width="440">
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="42" alt="wave"/>
